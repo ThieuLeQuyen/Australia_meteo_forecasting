@@ -1,0 +1,20 @@
+Métriques de clasification :
+Accuracy: 0.8645 - Recall: 0.5741 - Precision: 0.7529 - Score F1: 0.6514
+
+Matrice de confusion :
+Classe prédite  False  True 
+Classe réelle               
+0               20339   1146
+1                2590   3491
+---------------------------------
+
+Seuil optimal:
+
+Métriques de clasification :
+Accuracy: 0.8220 - Recall: 0.8053 - Precision: 0.5681 - Score F1: 0.6662
+
+Matrice de confusion :
+Classe prédite  False  True 
+Classe réelle               
+0               17762   3723
+1                1184   4897

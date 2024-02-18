@@ -1,0 +1,61 @@
+avant:
+pa.df.shape
+Out[20]: (145460, 23)
+
+----
+preprocessing poussé
+
+Classe prédite    0.0   1.0
+Classe réelle              
+0.0             16717   796
+1.0              2357  2722
+
+pa.df.shape
+Out[18]: (112960, 17)
+
+----
+basique 1 (conservation de sunshine & co)
+Classe prédite   0.0   1.0
+Classe réelle             
+0.0             8654   394
+1.0             1236  1334
+
+pa.df.shape
+Out[23]: (58090, 115)
+
+-----
+basique 2
+
+Classe prédite    0.0   1.0
+Classe réelle              
+0.0             18033   783
+1.0              2506  2596
+
+pa.df.shape
+Out[33]: (119590, 111)
+
+---
+---
+knn
+---
+preprocessing poussé
+
+pa.modelisation_knn()
+Classe prédite    0.0   1.0
+Classe réelle              
+0.0             16518   995
+1.0              2569  2510
+
+pa.df.shape
+Out[40]: (112960, 17)
+
+-----
+basique:
+pa.modelisation_knn()
+Classe prédite    0.0   1.0
+Classe réelle              
+0.0             17742  1074
+1.0              3463  1639
+
+pa.df.shape
+Out[43]: (119590, 111)

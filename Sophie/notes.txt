@@ -1,0 +1,56 @@
+690/690 - 1s - loss: 0.3860 - binary_accuracy: 0.8203 - val_loss: 0.3949 - val_binary_accuracy: 0.8175 - 697ms/epoch - 1ms/step
+Accuracy: 0.8038 - Recall: 0.7972 - Precision: 0.5372 - Score F1: 0.6419
+
+bs 128
+Accuracy: 0.8297 - Recall: 0.7905 - Precision: 0.5842 - Score F1: 0.6719
+bs 256
+Accuracy: 0.8117 - Recall: 0.8160 - Precision: 0.5493 - Score F1: 0.6566
+
+bs 64 / cW None / epo 300
+Accuracy: 0.8249 - Recall: 0.8013 - Precision: 0.5739 - Score F1: 0.6688
+128
+Accuracy: 0.8139 - Recall: 0.8160 - Precision: 0.5531 - Score F1: 0.6593
+lr 1e-3
+base: Accuracy: 0.8636 - Recall: 0.5738 - Precision: 0.7490 - Score F1: 0.6498
+seui: Accuracy: 0.8107 - Recall: 0.8211 - Precision: 0.5472 - Score F1: 0.6568
+
+bs 128/ cW None / epo 1000 / lr 1e-4
+Accuracy: 0.8658 - Recall: 0.5670 - Precision: 0.7637 - Score F1: 0.6508
+Accuracy: 0.8219 - Recall: 0.8145 - Precision: 0.5671 - Score F1: 0.6686
+
+bs 128/ cW None / epo 300 / lr 1e-3
+Accuracy: 0.8623 - Recall: 0.5741 - Precision: 0.7434 - Score F1: 0.6479
+Accuracy: 0.8162 - Recall: 0.8125 - Precision: 0.5572 - Score F1: 0.6611
+
+bs 128/ cW None / epo 2000 / lr 1e-4
+Accuracy: 0.8665 - Recall: 0.6001 - Precision: 0.7452 - Score F1: 0.6648
+Accuracy: 0.8212 - Recall: 0.8081 - Precision: 0.5665 - Score F1: 0.6660
+
+bs 128/ cW oui / epo 2000 / lr 1e-4
+Accuracy: 0.8368 - Recall: 0.7773 - Precision: 0.6004 - Score F1: 0.6775
+Accuracy: 0.8208 - Recall: 0.8160 - Precision: 0.5650 - Score F1: 0.6677
+
+bs 128/ cW oui / epo 1000 / lr 1e-4 // 100, 50
+Accuracy: 0.8174 - Recall: 0.8171 - Precision: 0.5589 - Score F1: 0.6638
+Accuracy: 0.8165 - Recall: 0.8204 - Precision: 0.5571 - Score F1: 0.6636
+
+bs 128/ cW oui / epo 1000 / lr 1e-4 // 50, 30 / es 50 (120)
+Accuracy: 0.8097 - Recall: 0.7982 - Precision: 0.5471 - Score F1: 0.6492
+Accuracy: 0.8066 - Recall: 0.8076 - Precision: 0.5413 - Score F1: 0.6481
+
+bs 128/ cW oui / epo 1000 / lr 1e-4 // 50, 30 / no es
+Accuracy: 0.8181 - Recall: 0.8158 - Precision: 0.5602 - Score F1: 0.6643
+Accuracy: 0.8290 - Recall: 0.8013 - Precision: 0.5816 - Score F1: 0.6740
+
+bs 128/ cW oui / epo 1000 / lr 1e-4 // 50, 30 / no es
+Accuracy: 0.8645 - Recall: 0.5770 - Precision: 0.7512 - Score F1: 0.6527
+Accuracy: 0.8228 - Recall: 0.8115 - Precision: 0.5689 - Score F1: 0.6689
+
+
+reste:
+2.4.2.2 - RNN multivariée
+2.5 - conclusion RNN 
+4.2 - regression MaxTemp_J_01
+4.4.1 - DNN regression MaxTemp_J_01
+4.4.2 - RNN MaxTemp - rédiger
+7 - Conclusion

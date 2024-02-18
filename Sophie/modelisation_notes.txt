@@ -1,0 +1,44 @@
+reprise de 120j de prédictions
+regarder jusqu'à quand il est possible de predire la pluie de façon significativement meilleure que l'aleatoire
+
+=> ok
+
+---
+
+compiler tableau de resultats pour chaque modele
+- par climat
+- par location
+
+- stock auc / nbj de prediction, trace courbe
+
+=> ok
+
+---
+
+faire modele specifique (= FPR <.1 => si prediction pluie, alors fiable qu'il pleuvra)
+faire modele sensible (= TPR >.9 => si prediction qu'il ne pleuvra PAS, alors fiable qu'il NE pleuvra PAS)
+
+=> bof
+
+---
+verifier + en detail dates manquante par location avec jointure 
+
+faire predictions sur maxtemps (regression)
+
+---
+
+faire serie temporelle (sarimax) sur max temp
+faire rnn
+
+
+---
+variables utilisées: poids? certaines negligeables?
+plt.barh(pm.X.columns, pm.clf.feature_importances_)
+
+-----
+
+Climat septentrional peut etre predit à de 120j!!
+Darwin: Vent Y
+Katherine: AmplitudeTemp
+Cairns
+Townsville
