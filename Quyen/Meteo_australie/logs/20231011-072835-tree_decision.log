@@ -1,0 +1,131 @@
+07:28:35 ## ----- CtxLog()
+07:28:35 ## _cmd_name      : pydev.pydevconsole
+07:28:35 ## _path_log_name : /Users/quyen/PycharmProjects/Meteo_australie/logs
+07:28:35 ## _full_log_name : /Users/quyen/PycharmProjects/Meteo_australie/logs/20231011-072835-tree_decision.log
+07:28:35 ## _verbose       : 0
+07:28:35 ## debut du traitement de 'pydev.pydevconsole', le 11/10/2023 07:28:35
+07:28:35 ## Memoire USS : 146.2M
+07:28:35 ## ['/Applications/PyCharm.app/Contents/plugins/python/helpers/pydev/pydevconsole.py', '--mode=client', '--host=127.0.0.1', '--port=49787']
+07:28:35 ## ----------------------------------------
+07:28:35 ## /Applications/PyCharm.app/Contents/plugins/python/helpers/pydev/pydevconsole.py
+07:28:35 ## ----------------------------------------
+07:28:35 ## Hyperopt pour optimiser les hyperparameters
+07:28:35 ## max_depth_range:  [ 2  3  4  5  6  7  8  9 10 11 12 13 14]
+07:28:35 ## min_samples_split_range:  [2 3 4 5 6 7 8 9]
+07:28:35 ## min_samples_leaf_range:  [2 3 4 5 6 7 8 9]
+07:28:35 ## =========== accuracy ===========
+07:30:12 ## temps de HyperOpt =  96.82496213912964
+07:30:12 ## Sauvegarder les hyperparameters optimaux et les résultats des trials
+07:30:12 ## Evaluation du meilleur modèle par hyperopt
+07:30:13 ## =========== recall ===========
+07:30:36 ## temps de HyperOpt =  22.336145877838135
+07:30:36 ## Sauvegarder les hyperparameters optimaux et les résultats des trials
+07:30:36 ## Evaluation du meilleur modèle par hyperopt
+07:30:37 ## =========== precision ===========
+07:31:04 ## temps de HyperOpt =  27.17603826522827
+07:31:04 ## Sauvegarder les hyperparameters optimaux et les résultats des trials
+07:31:04 ## Evaluation du meilleur modèle par hyperopt
+07:31:05 ## =========== f1 ===========
+07:31:17 ## temps de HyperOpt =  11.611123085021973
+07:31:17 ## Sauvegarder les hyperparameters optimaux et les résultats des trials
+07:31:17 ## Evaluation du meilleur modèle par hyperopt
+07:31:18 ## =========== roc_auc ===========
+07:31:46 ## temps de HyperOpt =  28.117707014083862
+07:31:46 ## Sauvegarder les hyperparameters optimaux et les résultats des trials
+07:31:46 ## Evaluation du meilleur modèle par hyperopt
+07:47:24 ## debut du traitement de 'pydev.pydevconsole', le 11/10/2023 07:28:35
+07:47:24 ## Memoire USS : 52.5M
+07:47:24 ## ['/Applications/PyCharm.app/Contents/plugins/python/helpers/pydev/pydevconsole.py', '--mode=client', '--host=127.0.0.1', '--port=49787']
+07:47:24 ## ----------------------------------------
+07:47:24 ## /Applications/PyCharm.app/Contents/plugins/python/helpers/pydev/pydevconsole.py
+07:47:24 ## ----------------------------------------
+07:47:24 ## Hyperopt pour optimiser les hyperparameters
+07:47:24 ## max_depth_range:  [ 2  3  4  5  6  7  8  9 10 11 12 13 14]
+07:47:24 ## min_samples_split_range:  [2 3 4 5 6 7 8 9]
+07:47:24 ## min_samples_leaf_range:  [2 3 4 5 6 7 8 9]
+07:47:24 ## n_estimators_range:  [10 11 12 13 14 15 16 17 18 19]
+07:47:24 ## =========== accuracy ===========
+07:52:23 ## temps de HyperOpt =  298.47410798072815
+07:52:23 ## Sauvegarder les hyperparameters optimaux et les résultats des trials
+07:52:23 ## Evaluation du meilleur modèle par hyperopt
+07:52:29 ## =========== recall ===========
+07:55:04 ## temps de HyperOpt =  154.42346596717834
+07:55:04 ## Sauvegarder les hyperparameters optimaux et les résultats des trials
+07:55:04 ## Evaluation du meilleur modèle par hyperopt
+07:55:17 ## =========== precision ===========
+08:00:27 ## temps de HyperOpt =  310.2411439418793
+08:00:27 ## Sauvegarder les hyperparameters optimaux et les résultats des trials
+08:00:27 ## Evaluation du meilleur modèle par hyperopt
+08:00:28 ## =========== f1 ===========
+08:03:43 ## temps de HyperOpt =  195.21782088279724
+08:03:43 ## Sauvegarder les hyperparameters optimaux et les résultats des trials
+08:03:43 ## Evaluation du meilleur modèle par hyperopt
+08:03:51 ## =========== roc_auc ===========
+08:10:49 ## temps de HyperOpt =  417.5207290649414
+08:10:49 ## Sauvegarder les hyperparameters optimaux et les résultats des trials
+08:10:49 ## Evaluation du meilleur modèle par hyperopt
+08:17:20 ## debut du traitement de 'pydev.pydevconsole', le 11/10/2023 07:28:35
+08:17:20 ## Memoire USS : 41.1M
+08:17:20 ## ['/Applications/PyCharm.app/Contents/plugins/python/helpers/pydev/pydevconsole.py', '--mode=client', '--host=127.0.0.1', '--port=49787']
+08:17:20 ## ----------------------------------------
+08:17:20 ## /Applications/PyCharm.app/Contents/plugins/python/helpers/pydev/pydevconsole.py
+08:17:20 ## ----------------------------------------
+08:17:21 ## Hyperopt pour optimiser les hyperparameters
+08:17:21 ## max_depth_range:  [ 2  3  4  5  6  7  8  9 10 11 12 13 14]
+08:17:21 ## min_samples_split_range:  [2 3 4 5 6 7 8 9]
+08:17:21 ## min_samples_leaf_range:  [2 3 4 5 6 7 8 9]
+08:17:21 ## =========== accuracy ===========
+08:17:58 ## temps de HyperOpt =  37.01969790458679
+08:17:58 ## Sauvegarder les hyperparameters optimaux et les résultats des trials
+08:17:58 ## Evaluation du meilleur modèle par hyperopt
+08:17:58 ## =========== recall ===========
+08:18:19 ## temps de HyperOpt =  20.98671007156372
+08:18:19 ## Sauvegarder les hyperparameters optimaux et les résultats des trials
+08:18:19 ## Evaluation du meilleur modèle par hyperopt
+08:18:21 ## =========== precision ===========
+08:18:46 ## temps de HyperOpt =  25.13541889190674
+08:18:46 ## Sauvegarder les hyperparameters optimaux et les résultats des trials
+08:18:46 ## Evaluation du meilleur modèle par hyperopt
+08:18:47 ## =========== f1 ===========
+08:19:10 ## temps de HyperOpt =  23.368999004364014
+08:19:10 ## Sauvegarder les hyperparameters optimaux et les résultats des trials
+08:19:10 ## Evaluation du meilleur modèle par hyperopt
+08:19:11 ## =========== roc_auc ===========
+08:19:38 ## temps de HyperOpt =  27.020326137542725
+08:19:38 ## Sauvegarder les hyperparameters optimaux et les résultats des trials
+08:19:38 ## Evaluation du meilleur modèle par hyperopt
+08:29:18 ## debut du traitement de 'pydev.pydevconsole', le 11/10/2023 07:28:35
+08:29:18 ## Memoire USS : 43.7M
+08:29:18 ## ['/Applications/PyCharm.app/Contents/plugins/python/helpers/pydev/pydevconsole.py', '--mode=client', '--host=127.0.0.1', '--port=49787']
+08:29:18 ## ----------------------------------------
+08:29:18 ## /Applications/PyCharm.app/Contents/plugins/python/helpers/pydev/pydevconsole.py
+08:29:18 ## ----------------------------------------
+08:29:18 ## Hyperopt pour optimiser les hyperparameters
+08:29:18 ## max_depth_range:  [ 2  3  4  5  6  7  8  9 10 11 12 13 14]
+08:29:18 ## min_samples_split_range:  [2 3 4 5 6 7 8 9]
+08:29:18 ## min_samples_leaf_range:  [2 3 4 5 6 7 8 9]
+08:29:18 ## n_estimators_range:  [10 11 12 13 14 15 16 17 18 19]
+08:29:18 ## =========== accuracy ===========
+08:31:42 ## temps de HyperOpt =  144.04835414886475
+08:31:42 ## Sauvegarder les hyperparameters optimaux et les résultats des trials
+08:31:42 ## Evaluation du meilleur modèle par hyperopt
+08:31:50 ## =========== recall ===========
+08:34:11 ## temps de HyperOpt =  141.16202306747437
+08:34:11 ## Sauvegarder les hyperparameters optimaux et les résultats des trials
+08:34:11 ## Evaluation du meilleur modèle par hyperopt
+08:34:19 ## =========== precision ===========
+08:35:31 ## temps de HyperOpt =  72.62344527244568
+08:35:31 ## Sauvegarder les hyperparameters optimaux et les résultats des trials
+08:35:31 ## Evaluation du meilleur modèle par hyperopt
+08:35:32 ## =========== f1 ===========
+08:37:29 ## temps de HyperOpt =  116.98948979377747
+08:37:29 ## Sauvegarder les hyperparameters optimaux et les résultats des trials
+08:37:29 ## Evaluation du meilleur modèle par hyperopt
+08:37:38 ## =========== roc_auc ===========
+08:44:22 ## temps de HyperOpt =  404.15439105033875
+08:44:22 ## Sauvegarder les hyperparameters optimaux et les résultats des trials
+08:44:22 ## Evaluation du meilleur modèle par hyperopt
+08:49:17 ## debut du traitement de 'pydev.pydevconsole', le 11/10/2023 07:28:35
+08:49:17 ## Memoire USS : 42.0M
+08:49:17 ## ['/Applications/PyCharm.app/Contents/plugins/python/helpers/pydev/pydevconsole.py', '--mode=client', '--host=127.0.0.1', '--port=49787']
+08:49:17 ## ----------------------------------------

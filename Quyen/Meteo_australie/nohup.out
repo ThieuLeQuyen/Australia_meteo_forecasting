@@ -1,0 +1,7 @@
+/opt/miniconda3/envs/Meteo_australie/bin/python3: Error while finding module specification for 'src.modelisation..main_pre_processing.py' (ModuleNotFoundError: No module named 'src.modelisation.'). Try using 'src.modelisation..main_pre_processing' instead of 'src.modelisation..main_pre_processing.py' as the module name.
+/opt/miniconda3/envs/Meteo_australie/bin/python3: Error while finding module specification for 'src.modelisation.main_pre_processing.py' (ModuleNotFoundError: __path__ attribute not found on 'src.modelisation.main_pre_processing' while trying to find 'src.modelisation.main_pre_processing.py'). Try using 'src.modelisation.main_pre_processing' instead of 'src.modelisation.main_pre_processing.py' as the module name.
+/Users/quyen/PycharmProjects/Meteo_australie
+/Users/quyen/PycharmProjects/Meteo_australie
+3.4487130641937256
+/Users/quyen/PycharmProjects/Meteo_australie
+780.7494688034058

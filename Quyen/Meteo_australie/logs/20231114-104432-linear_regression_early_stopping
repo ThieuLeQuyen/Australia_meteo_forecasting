@@ -1,0 +1,11 @@
+10:44:32 ## ----- CtxLog()
+10:44:32 ## _cmd_name      : regression.linear_regression
+10:44:32 ## _path_log_name : /Users/quyen/PycharmProjects/Meteo_australie/logs
+10:44:32 ## _full_log_name : /Users/quyen/PycharmProjects/Meteo_australie/logs/20231114-104432-linear_regression_early_stopping
+10:44:32 ## _verbose       : 0
+10:44:32 ## debut du traitement de 'regression.linear_regression', le 14/11/2023 10:44:32
+10:44:32 ## Memoire USS : 101.5M
+10:44:32 ## ['/Users/quyen/PycharmProjects/Meteo_australie/src/modelisation/regression/linear_regression.py']
+10:44:32 ## ----------------------------------------
+10:44:32 ## /Users/quyen/PycharmProjects/Meteo_australie/src/modelisation/regression/linear_regression.py
+10:44:32 ## ----------------------------------------
